@@ -2699,7 +2699,7 @@ extern AHC_BOOL Yaokongqi_flag; // lyj 20190423
 
 		{
 			 pf_General_EnGet(COMMON_KEY_B_VOL, &level);
-			// printc("~~~~~~~level = %d~~~~~~~~\r\n",level);werfwqwerqwrq3r
+			// printc("~~~~~~~level = %d~~~~~~~~\r\n",level);sfefaefaef
 				if(level<820)
 					{
 						level1=(level*100/791)%10;//791  830
