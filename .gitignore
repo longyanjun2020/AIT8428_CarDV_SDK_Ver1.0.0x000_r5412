@@ -1,1 +1,6 @@
 *.jpg
+*.o
+*.a
+*.bmp
+*txt
+*xml

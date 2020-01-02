@@ -1,0 +1,7 @@
+---- AHC_OSDDrawRect2 Matches (6 in 5 files) ----
+AHC_GUI.c (g:\mtx67\20190216_mtx67\ait8428_cardv_sdk_ver1.0.0x000_r5412\ahc\src\api)://  Function    : AHC_OSDDrawRect2
+AHC_GUI.c (g:\mtx67\20190216_mtx67\ait8428_cardv_sdk_ver1.0.0x000_r5412\ahc\src\api):AHC_BOOL AHC_OSDDrawRect2(UINT16 uwDisplayID, PRECT pRect)
+AHC_GUI.h (g:\mtx67\20190216_mtx67\ait8428_cardv_sdk_ver1.0.0x000_r5412\ahc\src\api):AHC_BOOL        AHC_OSDDrawRect2(UINT16 uwDisplayID, PRECT pRect);
+List.txt (g:\mtx67\20190216_mtx67\ait8428_cardv_sdk_ver1.0.0x000_r5412\project\dvr_cardv_sdk\build\sdk_core\core_data\mcr_v2):    AHC_OSDDrawRect2                         0x0107f7c4   ARM Code      52  AHC_GUI.o(.text)
+MenuDrawingManualSettingFunc.c (g:\mtx67\20190216_mtx67\ait8428_cardv_sdk_ver1.0.0x000_r5412\project\dvr_cardv_sdk\menu):    AHC_OSDDrawRect2(uwDispID, &rc);
+MenuDrawingPlaybackFunc.c (g:\mtx67\20190216_mtx67\ait8428_cardv_sdk_ver1.0.0x000_r5412\project\dvr_cardv_sdk\menu):    AHC_OSDDrawRect2(uwDispID, &rc);
